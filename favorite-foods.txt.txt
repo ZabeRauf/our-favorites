@@ -1,4 +1,4 @@
-pizza
-lasagna
-soft pretzels
-Burgers
+*pizza
+*lasagna
+*soft pretzels
+*Burgers
